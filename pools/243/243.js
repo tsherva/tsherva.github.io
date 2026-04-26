@@ -7,7 +7,7 @@ gqs:[],
 sqs:[],
 rgqs:[],
 rsqs:[],
-hasCC:false
+hasCC:true
 };
 cp.poolResources["243Images"]=[];
 cp.poolResources["243Videos"]=[
